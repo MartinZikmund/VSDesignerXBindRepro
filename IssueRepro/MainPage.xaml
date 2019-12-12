@@ -8,6 +8,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
     mc:Ignorable="d">
 
+
     <Grid>
         <Rectangle
             Width="100"
